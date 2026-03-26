@@ -1,0 +1,9 @@
+__pycache__/
+logs/*
+logs/sock/*
+!logs/
+!logs/.gitkeep
+!logs/sock/
+!logs/sock/.gitkeep
+.env
+poetry.lock
